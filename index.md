@@ -11,4 +11,4 @@ Tom Hanks:
 > - man weiß nie, was man bekommt!
 
 
-<img src="C:\Users\Kleemeyer\Pictures\kuchen.jpg"/>
+<img src="kuchen.jpg"/>
