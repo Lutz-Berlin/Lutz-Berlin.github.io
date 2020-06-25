@@ -10,3 +10,5 @@ Tom Hanks:
 > Das Leben ist wie eine Schachtel Pralinen
 > - man weiß nie, was man bekommt!
 
+
+<img src="C:\Users\Kleemeyer\Pictures\kuchen.jpg"/>
